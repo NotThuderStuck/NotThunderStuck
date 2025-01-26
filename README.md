@@ -1,23 +1,25 @@
 # NotThunderStruck
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=NotThunderStruck&theme=dark)](https://git.io/streak-stats)
+
 <h1 align="center">Hi 👋, I'm NotThunderStruck</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=notthunderstruck&label=Profile%20views&color=0e75b6&style=flat" alt="notthunderstruck" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=notthunderstruck" alt="notthunderstruck" /></a> </p>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=NotThunderStruck&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=NotThunderStruck&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NotThunderStruck&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=NotThunderStruck&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=notthunderstruck&show_icons=true&locale=en&layout=compact" alt="notthunderstruck" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=NotThunderStruck&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=notthunderstruck&show_icons=true&locale=en" alt="notthunderstruck" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=notthunderstruck&" alt="notthunderstruck" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
